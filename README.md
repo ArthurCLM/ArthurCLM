@@ -3,6 +3,7 @@ My area of research is based on time series.
 - 👀 I’m interested in providing some applications using my knowledge in statistics to real life data and, with this, learn more techniques aimed in this field, such as:
 
 * Data Analysis
+* Shiny Developer
 * Times Series
 * Machine Learning Models
 * Neural networking
