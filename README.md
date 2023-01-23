@@ -10,5 +10,4 @@ My area of research is based on time series.
 * And so on...
 - 📫 Email: arthurclm98@gmail.com
 - Linkedin: https://www.linkedin.com/in/arthur-machado-900323196/
-- ![](https://komarev.com/ghpvc/?username=ArthurCLM&color=green)
 
