@@ -11,4 +11,4 @@ My area of research is based on time series.
 * And so on...
 - 📫 Email: arthurclm98@gmail.com
 - Linkedin: https://www.linkedin.com/in/arthur-machado-900323196/
-
+- Portfolio: https://www.datascienceportfol.io/ArthurCLM
